@@ -1,0 +1,17 @@
+.pane-root {
+	-fx-pref-width: 600;
+	-fx-pref-height: 400;
+}
+
+
+.label-gridheader {
+	-fx-font-weight: bold;
+}
+
+.vbox {
+	-fx-fill-width: true;
+}
+
+.button-control {
+	
+}
